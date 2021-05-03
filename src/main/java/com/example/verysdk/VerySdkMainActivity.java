@@ -10,5 +10,7 @@ public class VerySdkMainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_verysdk);
+
+        // sample comment to check for submodule commit
     }
 }
